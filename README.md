@@ -11,4 +11,4 @@ This repo consists of all the files related to the MAD_PWA Lab along with Experi
 | Exp 05         | Firebase Authentication Service | [Link](https://github.com/HameedMulani/mad_pwa_05)      |
 | Exp 06         | Routes and Consume API          | [Link](https://github.com/HameedMulani/mad_pwa_06) |
 | Exp 07         | Navigation Drawer               | [Link](https://github.com/HameedMulani/mad_pwa_07)      |
-| Mini Project   | Chat Application       | [Link]()        |
+| Mini Project   | Chat Application       | [Link](https://github.com/HameedMulani/Chat_App_flutter_firebase)        |
